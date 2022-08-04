@@ -13,7 +13,7 @@ global.APIKeys = {
 
 // EDIT THIS VALUES \\
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I am Danuwa 😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -24,8 +24,8 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+94061034519'] //ur owner number
+global.ownername = "😎Danuwa❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -38,14 +38,14 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.premium = ['+380944814219'] //your premium numbers
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //your bot name
-global.packname = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker packname
+global.owner = ['+94061034519']
+global.ownertag = '+94061034519' //your tag number
+global.premium = ['+94061034519'] //your premium numbers
+global.botname = 'DANUWA - 𝘉𝘖𝘛' //your bot name
+global.packname = "DANUWA" // sticker packname
 global.author = "Bot Sticker" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
+global.footer = '[ ◉ DANUWA ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
